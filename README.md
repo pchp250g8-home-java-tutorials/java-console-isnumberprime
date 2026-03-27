@@ -8,6 +8,7 @@ The program does the following:
     4.1. The initial value of the parameter is set to 1, and the final value is set to the number entered from the keyboard.
     4.2. A series of loops is executed, where the remainder from dividing the number entered from the keyboard by the loop variable-parameter is calculated.
     4.3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
+         The value of the variable for the number of divisors is incremented by 1.
     4.4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
     4.5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
 5. The number of divisors of a number determines its type:
