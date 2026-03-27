@@ -12,10 +12,10 @@ The program does the following:
     4.4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
     4.5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
 5. The number of divisors of a number determines its type:
-      0 or 1 - neither prime nor composite.
-      2 - prime.
-      Greater than 2 - composite.
-      The corresponding messages are displayed on the screen.
+   0 or 1 - neither prime nor composite.
+   2 - prime.
+   Greater than 2 - composite.
+   The corresponding messages are displayed on the screen.
 Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio editor).
 
 
