@@ -2,13 +2,19 @@ IsNumberPrime. Java tutorials. Console Application. Simple Input/Output.  Algori
 A console application in the Java programming language. 
 The program does the following:
 1. Asks the user to enter a positive integer.
-2. The message displayed is: "The number has the following divisors:"
-3. The loop with the parameter is executed:
-    3.1. The initial value of the parameter is set to 1, and the final value is set to the number entered from the keyboard.
-    3.2. A series of loops is executed, where the remainder from dividing the number entered from the keyboard by the loop variable-parameter is calculated.
-    3.3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
-    3.4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
-    3.5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
+2. Creates a variable to count the number of divisors of the number with the value 0.
+3. The message displayed is: "The number has the following divisors:"
+4. The loop with the parameter is executed:
+    4.1. The initial value of the parameter is set to 1, and the final value is set to the number entered from the keyboard.
+    4.2. A series of loops is executed, where the remainder from dividing the number entered from the keyboard by the loop variable-parameter is calculated.
+    4.3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
+    4.4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
+    4.5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
+5. The number of divisors of a number determines its type:
+      0 or 1 - neither prime nor composite.
+      2 - prime.
+      Greater than 2 - composite.
+      The corresponding messages are displayed on the screen.
 Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio editor).
 
 
