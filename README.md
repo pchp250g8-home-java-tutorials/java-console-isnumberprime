@@ -1,4 +1,4 @@
-IsNumberPrime. Java tutorials. Console Application. Simple Input/Output.  Algorithms.
+IsNumberPrime. Java tutorials. Console Application. Simple Input/Output. Algorithms.
 A console application in the Java programming language. 
 The program does the following:
 1. Asks the user to enter a positive integer.
