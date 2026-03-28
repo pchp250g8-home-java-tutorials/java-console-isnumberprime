@@ -21,7 +21,7 @@ public class IsNumberPrime
             var ulNumber = scanner.nextLong();
             System.out.printf
             (
-               "The number %d has the folowing dividers:\r\n", 
+               "The number %d has the folowing divisors:\r\n", 
                ulNumber
             );
             for(long i = 1; i <= ulNumber; i++)
